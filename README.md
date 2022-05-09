@@ -1,4 +1,4 @@
-Hi i'm EXE welcom to my wor
+Hi i'm EXE welcom to my world
 
 🦾 Python 
 🤏 C++
