@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=exe88" alt="exe88" /></a> </p>
 
-- 📫 How to reach me **Telegram : @Dev0ExE**
+- 📫 Contact me on telegram : **@Dev0ExE**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
